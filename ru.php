@@ -1034,12 +1034,12 @@ $LANGS['abouttitle'] = 'Что такое BitView?';
 $LANGS['aboutdesc'] = 'BitView это способ поделиться видео с близкими вам людьми. С BitView вы можете:';
 $LANGS['about1'] = 'Показать миру ваши любимые видео';
 $LANGS['about2'] = 'Загружать видео ваших собак, кошек и других питомцев';
-$LANGS['about3'] = 'Blog the videos you take with your digital camera or cell phone';
-$LANGS['about4'] = 'Securely and privately show videos to your friends and family around the world';
+$LANGS['about3'] = 'Записывайте в блог видеоролики, которые вы снимаете на цифровую камеру или мобильный телефон.';
+$LANGS['about4'] = 'Безопасно и конфиденциально показывайте видео своим друзьям и родственникам по всему миру';
 $LANGS['about5'] = '... и многое другое!';
-$LANGS['aboutsignup'] = '<a href="/signup">Sign up now</a> and open a free account.';
-$LANGS['abouthelp'] = 'To learn more about our service, please see our <a href="help">Help</a> section.';
-$LANGS['aboutmail'] = 'Please feel free to <a href="mailto:contact@vidlii.co">contact us</a>.';
+$LANGS['aboutsignup'] = '<a href="/signup">Зарегистрируйтесь сейчас</a> и получите бесплатный аккаунт.';
+$LANGS['abouthelp'] = 'Чтобы узнать больше о нашем сервисе, смотрите <a href="help">Помощь</a>.';
+$LANGS['aboutmail'] = 'Пожалуйста, не стесняйтесь <a href="mailto:contact@vidlii.co"> писать нам</a>.';
 
 /* Community Guidelines */
 $LANGS['bvguidelines'] = 'Принципы сообщества BitView';
@@ -1111,13 +1111,13 @@ $LANGS['flashdisclaimer'] = "<b>Обратите внимание:</b> BitView �
 /* Share */
 $LANGS['sharevideo'] = 'Как мне поделиться обычным видео BitView?';
 $LANGS['sharepvideo'] = 'Как я могу поделиться своими личными видео с друзьями?';
-$LANGS['sharechannellist'] = 'How do I list my BitView videos on my website?';
-$LANGS['sharevideo1'] = 'First, go to the video that you want to share. Look for the box under the video player and tags.';
-$LANGS['sharevideo2'] = 'Now you will see two ways to share your video:';
-$LANGS['sharevideo3'] = '1. <b>Video URL</b>: This URL will send you directly to the BitView page and instantly starts playing the video. Send the link to someone via email or chat programs.';
-$LANGS['sharevideo4'] = '2. <b>Embed</b>: Copy the HTML below onto your website and the BitView video Player appear on it. It will not autoplay and needs to be clicked on before it starts. Replace the <i>"XXXXX"</i> with the video ID.';
-$LANGS['sharepvideo1'] = "To have friends and family be able to watch your private videos they must first of all have a BitView account. After you know the account name, go to their channel and click the <i>Add as Friend</i> button on the right. Now they just need to approve the friend request and they'll be all set to view your private videos.<br><b>You can also add a friend by simply entering their username below:</b>";
-$LANGS['sharechannellist1'] = 'Having a list of all your uploaded BitView videos is very simple, just add this HTML snippet to your website.';
+$LANGS['sharechannellist'] = 'Как разместить видео BitView на своем сайте?';
+$LANGS['sharevideo1'] = 'Сначала перейдите к видео, которым вы хотите поделиться. Ищите поле под видеоплеером и тегами.';
+$LANGS['sharevideo2'] = 'Теперь вы увидите два способа поделиться своим видео:';
+$LANGS['sharevideo3'] = '1. <b>Video URL</b>: Этот URL-адрес перенаправит вас прямо на страницу BitView и сразу же начнет воспроизведение видео. Отправьте ссылку кому-нибудь по электронной почте или через программы чата.';
+$LANGS['sharevideo4'] = '2. <b>Embed</b>: Скопируйте приведенный ниже HTML-код на свой веб-сайт, и на нем появится видеопроигрыватель BitView. Он не будет воспроизводиться автоматически, и перед его запуском необходимо нажать на него. Замените <i>"XXXXX"</i> с идентификатором видео.';
+$LANGS['sharepvideo1'] = "Чтобы друзья и семья могли смотреть ваши личные видео, они должны, прежде всего, иметь учетную запись BitView. После того, как вы узнаете имя учетной записи, перейдите на их канал и нажмите кнопку <i>Add as Friend</i> справа. Теперь им просто нужно одобрить запрос на добавление в друзья, и они будут готовы к просмотру ваших личных видео.<br><b>Вы также можете добавить друга, просто введя его имя пользователя ниже:</b>";
+$LANGS['sharechannellist1'] = 'Иметь список всех ваших загруженных видео BitView очень просто, просто добавьте этот фрагмент HTML на свой веб-сайт.';
 
 /* Footer */
 $LANGS['youraccount'] = 'Ваш аккаунт';
